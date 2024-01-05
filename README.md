@@ -17,8 +17,6 @@ Anggota 2:
  - Membuat list konsul
 
 Anggota 3:
-- Membuat diagnosis
-- Membuat fitur chat
 
 Anggota 4:
 - Membuat login
